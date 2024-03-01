@@ -1,0 +1,33 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+  background-color: pink;
+}
+
+h1
+{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
+
+p
+{
+  text-align: center;
+  font-size: 30px;
+}
+
+img
+{
+  width: 30%;
+  height: 30%;
+}
+
+#intro
+{
+  text-align: center;
+}
